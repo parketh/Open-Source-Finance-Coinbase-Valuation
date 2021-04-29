@@ -1,6 +1,6 @@
 # Open-Source-Finance-Coinbase-Valuation
 
-This file contains a valuation model for Coinbase that is intended to accompany the detailed discussion and analysis published on Open Source Finances' blog post (https://opensourcefinance.substack.com/p/coinbase-deep-dive-part-3). It uses a discounted cash flow (DCF) to arrive at an estimate of Coinbase's share price.
+This file contains a valuation model for Coinbase that accompanies the detailed discussion and analysis published on Open Source Finances' blog post (https://opensourcefinance.substack.com/p/coinbase-deep-dive-part-3). Using a discounted cash flow (DCF) model, it forecasts Coinbase's future cash flows up to 2026 and discounts this back to the present date (30 April 2021) to arrive at an estimate of Coinbase's value and share price.
 
 The model is divided into three sections:
  1. **Output**: which contains the DCF model output and valuation results
