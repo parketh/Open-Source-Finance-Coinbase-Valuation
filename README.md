@@ -25,6 +25,6 @@ The sections contain the following tabs:
 
 As a visual guide, cells that contain hard-coded inputs have been shaded in light grey. The key model outputs have been shaded in light orange.
 
-The model is freely available for download and (non-commercial) use. All rights and intellectual property belong to Open Source Finance. 
+The model is freely available for download and (non-commercial) use. All rights and intellectual property, however, belong to Open Source Finance. 
 
 Copyright © 2021 Open Source Finance.
